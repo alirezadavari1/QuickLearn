@@ -1,23 +1,5 @@
-/*-----------------------------------------------------------------------------------
-
-    Template Name: EdCare - Online Education LMS HTML5 Template
-    Author: RRDevs
-    Description: EdCare - Online Education LMS HTML5 Template
-    Version: 1.0
-
------------------------------------------------------------------------------------
 
 
-/************ TABLE OF CONTENTS ***************
-
-	01.  Default CSS
-	02. background CSS
-	03. buttons css
-
-**********************************************/
-/**----------------------------------------
-START: Default CSS
-----------------------------------------*/
 @import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&amp;display=swap");
 
 
@@ -67,9 +49,6 @@ START: Default CSS
   box-sizing: border-box;
 }
 
-/**
-	Typography CSS
-*/
 body {
   font-family: "Shabnam";
   font-size: 16px;
@@ -3434,7 +3413,7 @@ START: Header CSS
     margin-bottom: 30px;
   }
   .mobile-side-menu .side-menu-list li {
-    font-family: var(--ed-ff-heading);
+    display: flow-root;  
     font-size: 16px;
     font-weight: 500;
     color: var(--ed-color-heading-primary);
@@ -11688,7 +11667,6 @@ START: Footer CSS
   list-style: none;
 }
 .footer-widget .footer-list li a {
-  font-family: var(--ed-ff-body);
   color: var(--ed-color-common-white);
   font-size: 16px;
   font-weight: 400;
