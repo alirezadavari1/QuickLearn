@@ -326,7 +326,7 @@ ul {
   margin-bottom: 20px;
   position: relative;
   border: 1px solid #E0E5EB;
-  padding: 5px 15px 5px 5px;
+  padding: 5px 9px 5px 8px;
   border-radius: 100px;
 }
 .section-heading .sub-heading .heading-icon {
@@ -2558,18 +2558,14 @@ START: Header CSS
 .header .primary-header-inner .header-menu-wrap .sub-menu li a i {
   font-size: 13px;
 }
-.header .primary-header-inner .header-menu-wrap .sub-menu li.active a {
-  color: var(--ed-color-theme-primary);
-}
+
 .header .primary-header-inner .header-menu-wrap .sub-menu li.active ul li a {
   color: var(--ed-color-heading-primary);
 }
 .header .primary-header-inner .header-menu-wrap .sub-menu li.active ul li a:hover {
   color: var(--ed-color-common-white);
 }
-.header .primary-header-inner .header-menu-wrap .sub-menu li.active.menu-item-has-children:after {
-  color: var(--ed-color-theme-primary);
-}
+
 .header .primary-header-inner .header-menu-wrap .sub-menu li ul {
   background-color: var(--ed-color-common-white);
   display: block;
@@ -9468,9 +9464,7 @@ START: Video CSS
   height: 100px;
   width: 100px;
 }
-.video-feature .video-thumb .video-btn a .ripple:before, .video-feature .video-thumb .video-btn a .ripple:after {
-  
-}
+
 .video-feature .video-content .title {
   font-size: 30px;
 }
