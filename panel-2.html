@@ -6,6 +6,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>پنل کاربری</title>
+    <link href="https://fonts.googleapis.com/css2?family=Vazirmatn&display=swap" rel="stylesheet">
+    <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.png">
     <link rel="stylesheet" href="style.css">
     <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
 
@@ -16,9 +18,9 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: Arial, sans-serif;
 }
     body {
+         font-family: 'Vazirmatn', sans-serif;
         display: flex;
         min-height: 100vh;
         background:#999;
@@ -404,6 +406,72 @@ button.submit-btn:hover {
         width: 120px;
     }
 }
+/* تغییر رنگ و استایل فرم */
+.card, input, textarea {
+    background: #F9F9F9;
+    border: 1px solid #28a745;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    color: #333;
+    font-family: 'Vazirmatn', sans-serif;
+}
+
+/* سایه برای فرم و باکس */
+.card {
+    box-shadow: 0 6px 16px rgba(0,0,0,0.1);
+}
+
+/* لیبل‌ها مشکی یا طوسی تیره */
+label {
+    color: #333333;
+    font-weight: bold;
+}
+
+/* استایل جدید برای دکمه ارسال */
+button.submit-btn {
+    background: #28a745;
+    color: #fff;
+    border-radius: 12px;
+    transition: background 0.3s ease, transform 0.2s ease;
+}
+
+button.submit-btn:hover {
+    background: #218838;
+    transform: scale(1.05);
+}
+
+/* استایل دکمه‌های امتیاز */
+.rating-btn {
+    background: #4CAF50;
+    color: white;
+    transition: background 0.3s, transform 0.2s;
+    border-radius: 50%;
+}
+
+.rating-btn:hover {
+    background: #388e3c;
+}
+
+/* هنگام انتخاب دکمه امتیاز */
+.rating-btn.active {
+    background: #1e7e34;
+    color: #fff;
+    font-weight: bold;
+    transform: scale(1.2);
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+}
+
+
+/* گرد شدن بیشتر باکس و دکمه‌ها */
+textarea, button, .card, .rating-btn {
+    border-radius: 24px;
+}
+
+/* سایه ظریف برای ورودی‌ها */
+input, textarea {
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+}
+
 
 
     </style>
@@ -413,7 +481,7 @@ button.submit-btn:hover {
         <aside class="sidebar">
             <h2>داشبورد</h2>
 
-            <ul>
+            <ul dir="rtl">
                 <a href="./panel.html"><li><i class="fas fa-cog"></i>ویرایش دوره</li></a>
                 <a href="./Home.html"><li><i class="fas fa-home"></i> خانه</li></a>
                 <a href="./shop.html"><li><i class="fas fa-user"></i> فروشگاه</li></a>
