@@ -31,66 +31,6 @@
 
 
 
-.tab {
-            position: relative;
-        }
-
-        .tab input {
-            position: absolute;
-            opacity: 0;
-            z-index: -1;
-        }
-
-        .tab__content {
-            width: 97%;
-            color: #7a7474;
-            max-height: 0;
-            overflow: hidden;
-            transition: all 0.35s;
-        }
-
-        .tab input:checked ~ .tab__content {
-            max-height: 10rem;
-        }
-
-        .accordion {
-            color: var(--theme);
-            border-radius: 0.5rem;
-            overflow: hidden;
-        }
-
-        .tab__label,
-        .tab__close {
-            display: flex;
-            color: white;
-            background: var(--theme);
-            cursor: pointer;
-        }
-
-        .tab__label {
-            color: black;
-            justify-content: space-between;
-            padding: 1rem;
-            width: 97%;
-            background-color: #F2F4F7;
-            border-radius: 10px;
-            margin-top: 10px;
-        }
-
-        .tab__label::after {
-            content: "❯";
-            width: 1em;
-            height: 1em;
-            text-align: center;
-            transform: rotate(90deg);
-            transition: all 0.35s;
-            color: #07A698;
-        }
-
-        .tab input:checked + .tab__label::after {
-            transform: rotate(270deg);
-        }
-
     </style>
     <body>
         <header class="header header-3 sticky-active">

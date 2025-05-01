@@ -1,0 +1,135 @@
+Date : 2025-03-24 11:43:46
+Directory : c:\Users\QHS\Desktop\QuickLearn
+Total : 98 files,  40138 codes, 1247 comments, 3170 blanks, all 44555 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| HTML       |         69 |     24,698 |        519 |      1,994 |     27,211 |
+| CSS        |         10 |     13,933 |        428 |        884 |     15,245 |
+| JavaScript |         18 |      1,495 |        300 |        278 |      2,073 |
+| Markdown   |          1 |         12 |          0 |         14 |         26 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++---------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                  | files      | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                     |         98 |     40,138 |      1,247 |      3,170 |     44,555 |
+| . (Files)                                                                             |         15 |      5,901 |         68 |        459 |      6,428 |
+| assets                                                                                |         31 |     15,581 |        728 |      1,195 |     17,504 |
+| assets\css                                                                            |         10 |     13,933 |        428 |        884 |     15,245 |
+| assets\font                                                                           |          2 |        102 |          0 |         22 |        124 |
+| assets\img                                                                            |          1 |         51 |          0 |         11 |         62 |
+| assets\js                                                                             |         18 |      1,495 |        300 |        278 |      2,073 |
+| assets\js (Files)                                                                     |          1 |        471 |         29 |         47 |        547 |
+| assets\js\vendor                                                                      |         17 |      1,024 |        271 |        231 |      1,526 |
+| blog-details                                                                          |         36 |      8,992 |        327 |        939 |     10,258 |
+| shop-details                                                                          |         16 |      9,664 |        124 |        577 |     10,365 |
++---------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++---------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                              | language   | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| c:\Users\QHS\Desktop\QuickLearn\Etmamn-dore.html                                      | HTML       |        281 |          4 |         31 |        316 |
+| c:\Users\QHS\Desktop\QuickLearn\Home.html                                             | HTML       |        519 |         14 |         38 |        571 |
+| c:\Users\QHS\Desktop\QuickLearn\Problems.html                                         | HTML       |        331 |          4 |         38 |        373 |
+| c:\Users\QHS\Desktop\QuickLearn\README.md                                             | Markdown   |         12 |          0 |         14 |         26 |
+| c:\Users\QHS\Desktop\QuickLearn\assets\css\animate.min.css                            | CSS        |          2 |          5 |          0 |          7 |
+| c:\Users\QHS\Desktop\QuickLearn\assets\css\bootstrap.min.css                          | CSS        |          2 |          3 |          0 |          5 |
+| c:\Users\QHS\Desktop\QuickLearn\assets\css\daterangepicker.css                        | CSS        |        337 |          1 |         72 |        410 |
+| c:\Users\QHS\Desktop\QuickLearn\assets\css\fontawesome.min.css                        | CSS        |          1 |          5 |          0 |          6 |
+| c:\Users\QHS\Desktop\QuickLearn\assets\css\keyframe-animation.css                     | CSS        |      2,281 |        261 |         96 |      2,638 |
+| c:\Users\QHS\Desktop\QuickLearn\assets\css\main.css                                   | CSS        |     11,152 |        141 |        688 |     11,981 |
+| c:\Users\QHS\Desktop\QuickLearn\assets\css\nice-select.css                            | CSS        |        155 |          0 |         27 |        182 |
+| c:\Users\QHS\Desktop\QuickLearn\assets\css\odometer.min.css                           | CSS        |          1 |          1 |          0 |          2 |
+| c:\Users\QHS\Desktop\QuickLearn\assets\css\swiper.min.css                             | CSS        |          1 |         11 |          1 |         13 |
+| c:\Users\QHS\Desktop\QuickLearn\assets\css\venobox.min.css                            | CSS        |          1 |          0 |          0 |          1 |
+| c:\Users\QHS\Desktop\QuickLearn\assets\font\fa-v4compatibility-2.html                 | HTML       |         51 |          0 |         11 |         62 |
+| c:\Users\QHS\Desktop\QuickLearn\assets\font\fa-v4compatibility.html                   | HTML       |         51 |          0 |         11 |         62 |
+| c:\Users\QHS\Desktop\QuickLearn\assets\img\cross.html                                 | HTML       |         51 |          0 |         11 |         62 |
+| c:\Users\QHS\Desktop\QuickLearn\assets\js\main.js                                     | JavaScript |        471 |         29 |         47 |        547 |
+| c:\Users\QHS\Desktop\QuickLearn\assets\js\vendor\bootstrap-bundle.js                  | JavaScript |          1 |          5 |          0 |          6 |
+| c:\Users\QHS\Desktop\QuickLearn\assets\js\vendor\cart.js                              | JavaScript |         66 |         39 |         21 |        126 |
+| c:\Users\QHS\Desktop\QuickLearn\assets\js\vendor\countdown.js                         | JavaScript |        208 |         13 |         49 |        270 |
+| c:\Users\QHS\Desktop\QuickLearn\assets\js\vendor\daterangepicker.min.js               | JavaScript |          1 |          7 |          0 |          8 |
+| c:\Users\QHS\Desktop\QuickLearn\assets\js\vendor\imagesloaded-pkgd.js                 | JavaScript |          1 |          5 |          1 |          7 |
+| c:\Users\QHS\Desktop\QuickLearn\assets\js\vendor\jquary-3.6.0.min.js                  | JavaScript |          1 |          1 |          0 |          2 |
+| c:\Users\QHS\Desktop\QuickLearn\assets\js\vendor\jquery.isotope.js                    | JavaScript |          2 |          9 |          1 |         12 |
+| c:\Users\QHS\Desktop\QuickLearn\assets\js\vendor\meanmenu.js                          | JavaScript |        207 |         23 |         28 |        258 |
+| c:\Users\QHS\Desktop\QuickLearn\assets\js\vendor\modernizr-2.8.3-respond-1.4.2.min.js | JavaScript |          2 |          7 |          2 |         11 |
+| c:\Users\QHS\Desktop\QuickLearn\assets\js\vendor\moment.min.js                        | JavaScript |          2 |          5 |          0 |          7 |
+| c:\Users\QHS\Desktop\QuickLearn\assets\js\vendor\nice-select.js                       | JavaScript |          1 |          3 |          0 |          4 |
+| c:\Users\QHS\Desktop\QuickLearn\assets\js\vendor\odometer.min.js                      | JavaScript |          1 |          1 |          0 |          2 |
+| c:\Users\QHS\Desktop\QuickLearn\assets\js\vendor\smooth-scroll.js                     | JavaScript |        526 |        136 |        128 |        790 |
+| c:\Users\QHS\Desktop\QuickLearn\assets\js\vendor\swiper.min.js                        | JavaScript |          1 |         11 |          1 |         13 |
+| c:\Users\QHS\Desktop\QuickLearn\assets\js\vendor\venobox.min.js                       | JavaScript |          2 |          4 |          0 |          6 |
+| c:\Users\QHS\Desktop\QuickLearn\assets\js\vendor\waypoints.min.js                     | JavaScript |          1 |          0 |          0 |          1 |
+| c:\Users\QHS\Desktop\QuickLearn\assets\js\vendor\wow.min.js                           | JavaScript |          1 |          2 |          0 |          3 |
+| c:\Users\QHS\Desktop\QuickLearn\blog-Game.html                                        | HTML       |        458 |          2 |         37 |        497 |
+| c:\Users\QHS\Desktop\QuickLearn\blog-MashineLearning-tab.html                         | HTML       |        458 |          8 |         30 |        496 |
+| c:\Users\QHS\Desktop\QuickLearn\blog-Programming.html                                 | HTML       |        458 |          5 |         30 |        493 |
+| c:\Users\QHS\Desktop\QuickLearn\blog-details\ML_1.html                                | HTML       |        249 |         11 |         26 |        286 |
+| c:\Users\QHS\Desktop\QuickLearn\blog-details\ML_2.html                                | HTML       |        249 |          7 |         26 |        282 |
+| c:\Users\QHS\Desktop\QuickLearn\blog-details\ML_3.html                                | HTML       |        250 |          8 |         25 |        283 |
+| c:\Users\QHS\Desktop\QuickLearn\blog-details\ML_4.html                                | HTML       |        250 |         10 |         26 |        286 |
+| c:\Users\QHS\Desktop\QuickLearn\blog-details\ML_5.html                                | HTML       |        250 |          3 |         26 |        279 |
+| c:\Users\QHS\Desktop\QuickLearn\blog-details\ML_6.html                                | HTML       |        250 |         11 |         26 |        287 |
+| c:\Users\QHS\Desktop\QuickLearn\blog-details\ML_7.html                                | HTML       |        250 |          9 |         26 |        285 |
+| c:\Users\QHS\Desktop\QuickLearn\blog-details\ML_8.html                                | HTML       |        250 |          4 |         26 |        280 |
+| c:\Users\QHS\Desktop\QuickLearn\blog-details\ML_9.html                                | HTML       |        250 |          4 |         26 |        280 |
+| c:\Users\QHS\Desktop\QuickLearn\blog-details\game_1.html                              | HTML       |        250 |          6 |         26 |        282 |
+| c:\Users\QHS\Desktop\QuickLearn\blog-details\game_2.html                              | HTML       |        250 |         12 |         26 |        288 |
+| c:\Users\QHS\Desktop\QuickLearn\blog-details\game_3.html                              | HTML       |        250 |         12 |         26 |        288 |
+| c:\Users\QHS\Desktop\QuickLearn\blog-details\game_4.html                              | HTML       |        250 |          4 |         27 |        281 |
+| c:\Users\QHS\Desktop\QuickLearn\blog-details\game_5.html                              | HTML       |        250 |         12 |         24 |        286 |
+| c:\Users\QHS\Desktop\QuickLearn\blog-details\game_6.html                              | HTML       |        250 |         11 |         26 |        287 |
+| c:\Users\QHS\Desktop\QuickLearn\blog-details\game_7.html                              | HTML       |        250 |          4 |         26 |        280 |
+| c:\Users\QHS\Desktop\QuickLearn\blog-details\game_8.html                              | HTML       |        250 |          3 |         26 |        279 |
+| c:\Users\QHS\Desktop\QuickLearn\blog-details\game_9.html                              | HTML       |        250 |          4 |         26 |        280 |
+| c:\Users\QHS\Desktop\QuickLearn\blog-details\hak_1.html                               | HTML       |        249 |          6 |         26 |        281 |
+| c:\Users\QHS\Desktop\QuickLearn\blog-details\hak_2.html                               | HTML       |        250 |         12 |         26 |        288 |
+| c:\Users\QHS\Desktop\QuickLearn\blog-details\hak_3.html                               | HTML       |        250 |         12 |         26 |        288 |
+| c:\Users\QHS\Desktop\QuickLearn\blog-details\hak_4.html                               | HTML       |        250 |         12 |         25 |        287 |
+| c:\Users\QHS\Desktop\QuickLearn\blog-details\hak_5.html                               | HTML       |        250 |         12 |         26 |        288 |
+| c:\Users\QHS\Desktop\QuickLearn\blog-details\hak_6.html                               | HTML       |        250 |         11 |         27 |        288 |
+| c:\Users\QHS\Desktop\QuickLearn\blog-details\hak_7.html                               | HTML       |        250 |         11 |         25 |        286 |
+| c:\Users\QHS\Desktop\QuickLearn\blog-details\hak_8.html                               | HTML       |        250 |         11 |         26 |        287 |
+| c:\Users\QHS\Desktop\QuickLearn\blog-details\hak_9.html                               | HTML       |        249 |         12 |         26 |        287 |
+| c:\Users\QHS\Desktop\QuickLearn\blog-details\veb_1.html                               | HTML       |        252 |         10 |         33 |        295 |
+| c:\Users\QHS\Desktop\QuickLearn\blog-details\veb_2.html                               | HTML       |        249 |         12 |         26 |        287 |
+| c:\Users\QHS\Desktop\QuickLearn\blog-details\veb_3.html                               | HTML       |        249 |         12 |         26 |        287 |
+| c:\Users\QHS\Desktop\QuickLearn\blog-details\veb_4.html                               | HTML       |        249 |         12 |         25 |        286 |
+| c:\Users\QHS\Desktop\QuickLearn\blog-details\veb_5.html                               | HTML       |        249 |         12 |         26 |        287 |
+| c:\Users\QHS\Desktop\QuickLearn\blog-details\veb_6.html                               | HTML       |        250 |         10 |         25 |        285 |
+| c:\Users\QHS\Desktop\QuickLearn\blog-details\veb_7.html                               | HTML       |        249 |         12 |         27 |        288 |
+| c:\Users\QHS\Desktop\QuickLearn\blog-details\veb_8.html                               | HTML       |        249 |         12 |         26 |        287 |
+| c:\Users\QHS\Desktop\QuickLearn\blog-details\veb_9.html                               | HTML       |        250 |          1 |         26 |        277 |
+| c:\Users\QHS\Desktop\QuickLearn\blog-hak&protect-tab.html                             | HTML       |        458 |          9 |         31 |        498 |
+| c:\Users\QHS\Desktop\QuickLearn\cart.html                                             | HTML       |        331 |          1 |         27 |        359 |
+| c:\Users\QHS\Desktop\QuickLearn\contact.html                                          | HTML       |        321 |          5 |         26 |        352 |
+| c:\Users\QHS\Desktop\QuickLearn\idea-for-programers.html                              | HTML       |        294 |          4 |         29 |        327 |
+| c:\Users\QHS\Desktop\QuickLearn\pas-dadan-dore.html                                   | HTML       |        271 |          1 |         26 |        298 |
+| c:\Users\QHS\Desktop\QuickLearn\shop-details\shop-details-HTML5.html                  | HTML       |        599 |          5 |         35 |        639 |
+| c:\Users\QHS\Desktop\QuickLearn\shop-details\shop-details-behine-python.html          | HTML       |        601 |         12 |         35 |        648 |
+| c:\Users\QHS\Desktop\QuickLearn\shop-details\shop-details-bootstrap.html              | HTML       |        611 |          8 |         36 |        655 |
+| c:\Users\QHS\Desktop\QuickLearn\shop-details\shop-details-css3.html                   | HTML       |        607 |         10 |         34 |        651 |
+| c:\Users\QHS\Desktop\QuickLearn\shop-details\shop-details-flexbox.html                | HTML       |        602 |          6 |         34 |        642 |
+| c:\Users\QHS\Desktop\QuickLearn\shop-details\shop-details-game.html.html              | HTML       |        606 |          9 |         40 |        655 |
+| c:\Users\QHS\Desktop\QuickLearn\shop-details\shop-details-haker-0km.html              | HTML       |        602 |          6 |         34 |        642 |
+| c:\Users\QHS\Desktop\QuickLearn\shop-details\shop-details-illustrator.html            | HTML       |        606 |          5 |         43 |        654 |
+| c:\Users\QHS\Desktop\QuickLearn\shop-details\shop-details-jango.html                  | HTML       |        600 |         10 |         36 |        646 |
+| c:\Users\QHS\Desktop\QuickLearn\shop-details\shop-details-js.html                     | HTML       |        604 |          9 |         34 |        647 |
+| c:\Users\QHS\Desktop\QuickLearn\shop-details\shop-details-linux.html                  | HTML       |        599 |          9 |         34 |        642 |
+| c:\Users\QHS\Desktop\QuickLearn\shop-details\shop-details-photoshop.html              | HTML       |        610 |          6 |         43 |        659 |
+| c:\Users\QHS\Desktop\QuickLearn\shop-details\shop-details-php.html                    | HTML       |        600 |         10 |         34 |        644 |
+| c:\Users\QHS\Desktop\QuickLearn\shop-details\shop-details-python.html                 | HTML       |        605 |          9 |         34 |        648 |
+| c:\Users\QHS\Desktop\QuickLearn\shop-details\shop-details-react.html                  | HTML       |        604 |          5 |         38 |        647 |
+| c:\Users\QHS\Desktop\QuickLearn\shop-details\shop-details-tailwind.html               | HTML       |        608 |          5 |         33 |        646 |
+| c:\Users\QHS\Desktop\QuickLearn\shop.html                                             | HTML       |        969 |          1 |         41 |      1,011 |
+| c:\Users\QHS\Desktop\QuickLearn\student-project.html                                  | HTML       |        422 |          6 |         32 |        460 |
+| c:\Users\QHS\Desktop\QuickLearn\wishlist.html                                         | HTML       |        318 |          4 |         29 |        351 |
+| Total                                                                                 |            |     40,138 |      1,247 |      3,170 |     44,555 |
++---------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
